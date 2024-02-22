@@ -1,0 +1,19 @@
+{
+  "name": "namaste-react",
+  "version": "1.0.0",
+  "description": "My learning",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dee077/Namaste-React.git"
+  },
+  "author": "Deepanshu Sahu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dee077/Namaste-React/issues"
+  },
+  "homepage": "https://github.com/dee077/Namaste-React#readme"
+}
