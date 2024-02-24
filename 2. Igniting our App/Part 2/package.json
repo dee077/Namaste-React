@@ -3,8 +3,6 @@
   "version": "1.0.0",
   "description": "My learning",
   "scripts": {
-    "start": "parcel index.html",
-    "build": "parcel build index.html",
     "test": "jest"
   },
   "repository": {
