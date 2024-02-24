@@ -1,1 +1,1 @@
-# Namaste React :rocket:
+# Namaste React 🚀
