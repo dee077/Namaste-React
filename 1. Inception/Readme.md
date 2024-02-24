@@ -2,40 +2,40 @@
 
 ## Theory
 
-#### What is Emmet?
+#### 1. What is Emmet?
 - As of my last knowledge update in January 2022, I don't have specific information about "WebDriver BiDi." It's possible that there have been developments or new technologies introduced after that date.
 
-#### Difference between a Library and Framework?
+#### 2. Difference between a Library and Framework?
 - As of my last knowledge update in January 2022, I don't have specific information about "WebDriver BiDi." It's possible that there have been developments or new technologies introduced after that date.
 
-#### What is CDN? Why do we use it?
+#### 3. What is CDN? Why do we use it?
 - As of my last knowledge update in January 2022, I don't have specific information about "WebDriver BiDi." It's possible that there have been developments or new technologies introduced after that date.
 
-#### Why is React known as React?
+#### 4. Why is React known as React?
 - As of my last knowledge update in January 2022, I don't have specific information about "WebDriver BiDi." It's possible that there have been developments or new technologies introduced after that date.
 
-#### What is crossorigin in script tag?
+#### 5. What is crossorigin in script tag?
 
-#### What is diference between React and ReactDOM
+#### 6. What is diference between React and ReactDOM
 
-#### What is difference between react.development.js and react.production.js files via CDN?
+#### 7. What is difference between react.development.js and react.production.js files via CDN?
 
-#### What is async and defer? - see my Youtube video ;)
+#### 8. What is async and defer? - see my Youtube video ;)
 
 ## Coding
 
-#### Set up all the tools in your laptop.
-- VS Code
-- Chrome
-- Extensions of Chrome
-#### Create a new Git repo.
-#### Build your first Hello World program using,
-- Using just HTML
-- Using JS to manipulate the DOM
-- Using React
-#### use CDN Links
-#### Create an Element
-#### Create nested React Elements
-#### Use root.render
-#### Push code to Github (Theory as well as code)
-#### Learn about Arrow Functions before the next class
+#### 1. Set up all the tools in your laptop &check
+- VS Code &check
+- Chrome &check
+- Extensions of Chrome &check
+#### 2. Create a new Git repo &check
+#### 3. Build your first Hello World program using &check
+- Using just HTML &check
+- Using JS to manipulate the DOM &check
+- Using React &check
+#### 4. Use CDN Links &check
+#### 5. Create an Element &check
+#### 6. Create nested React Elements &check
+#### 7. Use root.render &check
+#### 8. Push code to Github (Theory as well as code) &check
+#### 9. Learn about Arrow Functions before the next class &check
