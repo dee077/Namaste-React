@@ -1,4 +1,4 @@
-# Assignment 1 - Inception
+# Assignment 1 - Inception ✅
 
 ## Theory
 
