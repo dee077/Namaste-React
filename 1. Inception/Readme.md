@@ -24,18 +24,18 @@
 
 ## Coding
 
-#### 1. Set up all the tools in your laptop &check
-- VS Code &check
-- Chrome &check
-- Extensions of Chrome &check
-#### 2. Create a new Git repo &check
-#### 3. Build your first Hello World program using &check
-- Using just HTML &check
-- Using JS to manipulate the DOM &check
-- Using React &check
-#### 4. Use CDN Links &check
-#### 5. Create an Element &check
-#### 6. Create nested React Elements &check
-#### 7. Use root.render &check
-#### 8. Push code to Github (Theory as well as code) &check
-#### 9. Learn about Arrow Functions before the next class &check
+#### 1. Set up all the tools in your laptop ✅
+- VS Code ✅
+- Chrome ✅
+- Extensions of Chrome ✅
+#### 2. Create a new Git repo ✅
+#### 3. Build your first Hello World program using ✅
+- Using just HTML ✅
+- Using JS to manipulate the DOM ✅
+- Using React ✅
+#### 4. Use CDN Links ✅
+#### 5. Create an Element ✅
+#### 6. Create nested React Elements ✅
+#### 7. Use root.render ✅
+#### 8. Push code to Github (Theory as well as code) ✅
+#### 9. Learn about Arrow Functions before the next class ✅
