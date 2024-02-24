@@ -1,4 +1,4 @@
-# Assignment 2 - Igniting our App
+# Assignment 2 - Igniting our App ✅
 
 ## Theory
 
