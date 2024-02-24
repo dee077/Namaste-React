@@ -2,7 +2,7 @@
 
 ## Theory
 
-#### 1. What is Emmet?
+#### What is Emmet?
 - As of my last knowledge update in January 2022, I don't have specific information about "WebDriver BiDi." It's possible that there have been developments or new technologies introduced after that date.
 
 #### Difference between a Library and Framework?
@@ -25,14 +25,14 @@
 ## Coding
 
 #### Set up all the tools in your laptop.
-    ○ VS Code
-    ○ Chrome
-    ○ Extensions of Chrome
+- VS Code
+- Chrome
+- Extensions of Chrome
 #### Create a new Git repo.
 #### Build your first Hello World program using,
-    ○ Using just HTML
-    ○ Using JS to manipulate the DOM
-    ○ Using React
+- Using just HTML
+- Using JS to manipulate the DOM
+- Using React
 #### use CDN Links
 #### Create an Element
 #### Create nested React Elements
