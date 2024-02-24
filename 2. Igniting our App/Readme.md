@@ -1,6 +1,6 @@
 # Assignment 2 - Igniting our App
 
-# Theory
+## Theory
 
 #### What is NPM?
 - NPM is everyhting but not node package manager, it does package modules but there is not a single mention of npm full form. It is used to manage and install packages to your project.
