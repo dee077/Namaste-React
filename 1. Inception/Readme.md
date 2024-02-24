@@ -25,14 +25,14 @@
 ## Coding
 
 #### 1. Set up all the tools in your laptop ✅
-- VS Code ✅
-- Chrome ✅
-- Extensions of Chrome ✅
+- VS Code ✔️
+- Chrome ✔️
+- Extensions of Chrome ✔️
 #### 2. Create a new Git repo ✅
 #### 3. Build your first Hello World program using ✅
-- Using just HTML ✅
-- Using JS to manipulate the DOM ✅
-- Using React ✅
+- Using just HTML ✔️
+- Using JS to manipulate the DOM ✔️
+- Using React ✔️
 #### 4. Use CDN Links ✅
 #### 5. Create an Element ✅
 #### 6. Create nested React Elements ✅
