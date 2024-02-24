@@ -9,7 +9,7 @@ For example, typing html:5 and then pressing the expansion key (usually Tab) wil
 #### 2. Difference between a Library and Framework?
 - In a library, the control flow of the application is determined by the developer. The developer decides when and where to call the 
 functions or methods provided by the library.
-In a framework, the control flow is inverted. The framework determines the flow of the application. Developers write code that fits 
+- In a framework, the control flow is inverted. The framework determines the flow of the application. Developers write code that fits 
 into the structure defined by the framework.
 
 #### 3. What is CDN? Why do we use it?
@@ -27,16 +27,16 @@ that React follows – building UIs in a reactive and declarative way.
 
 #### 6. What is diference between React and ReactDOM
 - The React package is focused on the core functionality of React, which includes defining and creating React components, managing the component lifecycle, and handling the virtual DOM.
-The ReactDOM package is responsible for interacting with the actual DOM. It provides methods for rendering React components to the browser DOM, updating the DOM based on changes in state or props, and handling events.
+- The ReactDOM package is responsible for interacting with the actual DOM. It provides methods for rendering React components to the browser DOM, updating the DOM based on changes in state or props, and handling events.
 
 #### 7. What is difference between react.development.js and react.production.js files via CDN?
 - In react.development.js the file is intended for development environments. It includes additional warnings and error messages that help developers identify issues and debug their code more easily.
-In react.production.js the file is optimized for production environments. It excludes the development-specific warnings and messages to reduce file size and improve performance in production.
+- In react.production.js the file is optimized for production environments. It excludes the development-specific warnings and messages to reduce file size and improve performance in production.
 
 #### 8. What is async and defer?
 - Async and defer are attributes used in the script tag in HTML, and they affect how the browser downloads and executes the associated JavaScript files.
-When you add the async attribute to the script tag, it tells the browser to download the script asynchronously while the HTML parsing continues.The script will be executed as soon as it's downloaded, which may occur before the HTML parsing is complete. This is beneficial for non-blocking scripts that don't depend on the order of execution or the availability of other scripts.
-When you add the defer attribute to the script tag, it also tells the browser to download the script asynchronously. However, the script execution is deferred until after the HTML parsing is complete. Multiple scripts with the defer attribute will be executed in the order they appear in the HTML. This is useful when scripts depend on each other or need to be executed in a specific order.
+- When you add the async attribute to the script tag, it tells the browser to download the script asynchronously while the HTML parsing continues.The script will be executed as soon as it's downloaded, which may occur before the HTML parsing is complete. This is beneficial for non-blocking scripts that don't depend on the order of execution or the availability of other scripts.
+- When you add the defer attribute to the script tag, it also tells the browser to download the script asynchronously. However, the script execution is deferred until after the HTML parsing is complete. Multiple scripts with the defer attribute will be executed in the order they appear in the HTML. This is useful when scripts depend on each other or need to be executed in a specific order.
 
 ## Coding
 
