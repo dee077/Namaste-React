@@ -30,7 +30,7 @@
 - Hot Module Replacement (HMR) is a feature that allows developers to update modules in a running application without a full page reload.
 
 #### 8. List down your favourite 5 superpowers of Parcel and describe them in your own words.
--Zero Configuration: Parcel's most remarkable superpower is its ability to require little to no configuration. Unlike many other bundlers that may require complex setup files, Parcel can intelligently detect and configure the project based on the files and dependencies present. This makes it extremely developer-friendly, allowing users to dive into their projects without spending time on extensive configuration.
+- Zero Configuration: Parcel's most remarkable superpower is its ability to require little to no configuration. Unlike many other bundlers that may require complex setup files, Parcel can intelligently detect and configure the project based on the files and dependencies present. This makes it extremely developer-friendly, allowing users to dive into their projects without spending time on extensive configuration.
 
 - Blazing Fast Build Speed Parcel excels in build speed. It utilizes parallelization and caching strategies to build projects rapidly. The speed is crucial for developers who want quick feedback during the development process. Parcel's performance optimizations make it an excellent choice for projects of varying sizes, ensuring that builds complete swiftly.
 
