@@ -2,29 +2,29 @@
 
 ## Topics
 
-#### JSX
+#### 1. JSX
 
 
-#### React.createElement vs JSX
+#### 2. React.createElement vs JSX
 
 
-#### Benefits of JSX
+#### 3. Benefits of JSX
 
 
-#### Behind the Scenes of JSX
+#### 4. Behind the Scenes of JSX
 
 
-#### Babel & parcel role in JSX
+#### 5.Babel & parcel role in JSX
 
 
-#### Components
+#### 6. Components
 
 
-#### Functional Components
+#### 7. Functional Components
 
 
-#### Composing Components
+#### 8. Composing Components
 
-#### Role of type attribute in script tag? What options can I use there?
+#### 9. Role of type attribute in script tag? What options can I use there?
 
-#### {TitleComponent} vs {<TitleComponent/>} vs {<TitleComponent></TitleComponent>} in JSX
+#### 10. {TitleComponent} vs {<TitleComponent/>} vs {<TitleComponent></TitleComponent>} in JSX
