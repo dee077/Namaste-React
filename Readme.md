@@ -1,4 +1,4 @@
-# Namaste React 🚀
+# Namaste React 🚀 Progress Record
 
 This repository serves as a comprehensive record of my progress through the **Namaste React** course, a learning journey dedicated to mastering React, the widely acclaimed JavaScript library for building user interfaces. React's popularity in the web development community is unparalleled, thanks to its component-based architecture, virtual DOM, and efficient rendering, which significantly enhance the development of dynamic and responsive web applications.
 
