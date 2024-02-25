@@ -27,4 +27,4 @@
 
 #### 9. Role of type attribute in script tag? What options can I use there?
 
-#### 10. {TitleComponent} vs {<TitleComponent/>} vs {<TitleComponent></TitleComponent>} in JSX
+#### 10. {TitleComponent} vs {'<TitleComponent/>'} vs {<TitleComponent></TitleComponent>} in JSX
