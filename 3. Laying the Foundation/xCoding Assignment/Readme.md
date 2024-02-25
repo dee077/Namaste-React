@@ -5,7 +5,7 @@
 - Create a functional component of the same with JSX
 - Pass attributes into the tag in JSX
 - Composition of Component(Add a component inside another)
-- {TitleComponent} vs {<TitleComponent/>} vs {<TitleComponent></TitleComponent>} in JSX
+- `{TitleComponent}` vs `{<TitleComponent/>}` vs `{<TitleComponent></TitleComponent>}` in JSX
 - Create a Header Component from scratch using Functional Components with JSX
 - Add a Logo on left
 - Add a search bar in middle
