@@ -1,0 +1,45 @@
+body{
+ margin: 0;
+ padding: 0;
+}
+
+.header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: lightseagreen;
+}
+
+.logo{
+    width: 60px;
+    border-radius: 100%;
+    padding: 1% 3%;
+}
+.userlogo{
+    width: 50px;
+    border-radius: 100%;
+    padding: 1% 3%;
+}
+.usericon{
+    padding: 1% 3%;
+    font-size: 35px;
+}
+form {
+    display: flex;
+    align-items: center;
+  }
+  
+  .input {
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 5px; 
+  }
+  
+  .submit {
+    background-color: #0c0e0c;
+    color: white;
+    border: none;
+    padding: 8px 15px;
+    border-radius: 5px;
+    cursor: pointer;
+  }
