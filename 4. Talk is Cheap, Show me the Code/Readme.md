@@ -3,7 +3,7 @@
 ## Theory
 
 #### 1. Is JSX mandatory for React?
-- No, React components and elements can be created with React.createElement JSX just provide HTML like syntex to write code more readable and developer friendly.
+- No, React components and elements can be created with React.createElement JSX just provide HTML like syntex to write code more readable and make it developer friendly.
 #### 2. Is ES6 mandatory for React?
 - No, React is Javascript library does not souly rely on Es6. Es6 does improve the developer expirence by adding some features like Arrow Functions, Destructuring Assignment, Let and Const Block-scoped variable declarations.
 #### 3. `{TitleComponent}` vs `{<TitleComponent/>}` vs `{<TitleComponent></TitleComponent>}` in JSX
