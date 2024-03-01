@@ -10,6 +10,7 @@
 
 #### 2. What is the importance of config.js file
 - It allows you to centralize and organize configuration settings for your project in one place all the static data can be palced inside it to enhance code maintainability. 
+
 #### 3. What are React Hooks?
 - React Hooks are functions that enable functional components in React to manage state and effects in more optimized way.
 
