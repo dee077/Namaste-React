@@ -25,13 +25,16 @@ const Body = () => {
         <button 
           className="filter-btn" 
           onClick={ () => {
+              // console.log(liveResData)
               if(listOfRestaurant.filtered) {
-                setlistOfRestaurant({data: resList, filtered: !listOfRestaurant.filtered})
+                setlistOfRestaurant({data: liveResData, filtered: !listOfRestaurant.filtered})
+                console.log(listOfRestaurant)
               } else {
-                const filteredList = resList.filter(
-                  (res) => res.info.avgRating > 4.3 
+                const filteredList = listOfRestaurant.data.filter(
+                  (res) => res.info.avgRating > 4.4 
                 )
                 setlistOfRestaurant({data: filteredList, filtered: !listOfRestaurant.filtered})
+                console.log(listOfRestaurant)
               }
             }
           } 
