@@ -9,8 +9,10 @@
 
 #### What is the order of life cycle method calls in Class Based Components
 - Constructor -> render -> componentDidMount
+
 #### Why do we use componentDidMount?
 - It is used to perform side effects after the component has been mounted .It is commonly used for tasks such as fetching data from an API, initializing third-party libraries, or setting up subscriptions.
+
 #### Why do we use componentWillUnmount? Show with example
 - It is used to perform cleanup tasks before a component is unmounted and removed from the DOM tree.
 - For example if we switch tabs between nav items like about and home, after leaving a tab its componentWillUnmount will be called.
