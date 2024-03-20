@@ -13,7 +13,7 @@ const ItemList = ({item}) => {
                 <p className="text-sm text-gray-500 py-3">{data?.card?.info?.description}</p>
             </div>
             <div className="w-3/12 relative flex items-end justify-center">
-                <div className="absolute my-4">
+                <div className="absolute my-2">
                     <button className="px-4 py-1 bg-white shadow-lg rounded-lg text-green-600 ">Add +</button>
                 </div>
                 <img className="px-2"  src={CDN_URL+data?.card?.info?.imageId} alt="dish" />
