@@ -14,15 +14,13 @@ const RestaurantMenu = () => {
 
   const { name, cuisines, costForTwoMessage } = resInfo?.cards[0]?.card?.card?.info;
   let categories = resInfo?.cards[2]?.groupedCard?.cardGroupMap?.REGULAR.cards
-  console.log(categories)
+  // console.log(categories)
   categories=categories.filter(
     (c) => 
       c.card.card?.['@type'] === 'type.googleapis.com/swiggy.presentation.food.v2.ItemCategory'
   );
-  console.log(categories)
-
-  
-  
+  // console.log(categories)
+  // console.log(showIndex)
   return (
     <div className="text-center m-4">
       <h1 className="font-bold text-2xl my-5">{name}</h1>
@@ -32,7 +30,8 @@ const RestaurantMenu = () => {
           key={category?.card?.card?.title}
           data={category?.card?.card}
           showItem={showIndex === index}
-          setShowItem={() => setShowIndex(index)}
+          index={index}
+          setShowItem={() => { setShowIndex(prevIndex => (prevIndex === index ? -1 : index))} }
         />
       ))}
     </div>  

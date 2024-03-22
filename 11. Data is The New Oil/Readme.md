@@ -1,19 +1,21 @@
-# Assignment 10 - Jo dikhta hai vo bikta hai ✅
+# Assignment 11 - Data is the new Oil ✅
 
 ## Theory:
-#### Explore all the ways of writing css. ✅
-#### How do we configure tailwind?
-- Follow https://tailwindcss.com/docs/guides/parcel 
 
-#### In tailwind.config.js, what does all the keys mean (content, theme, extend,plugins)?
-- In tailwind.config.js, the keys content, theme, extend, and plugins are used to configure different aspects of Tailwind CSS:
-- Content: The content key allows you to define additional content styles, such as custom font families, text sizes, line heights, and letter spacings. You can add or override content-related styles within this section.
-- Theme: The theme key is one of the most important parts of the configuration file. It allows you to customize the default design system of Tailwind CSS by specifying colors, typography settings, spacing scales, breakpoints, and more. You can define your own values for these properties or extend the existing ones.
-- Extend: The extend key lets you extend or override Tailwind CSS utility classes with your custom utility classes. This is useful when you need to add new utility classes or modify existing ones to match your project's specific design requirements. You can extend Tailwind's default utility classes with additional styles or variants.
-- Plugins: The plugins key enables you to add custom plugins to Tailwind CSS, allowing you to extend its functionality beyond what's provided out of the box. Plugins can be used to add new utility classes, apply transformations to existing classes, or optimize your CSS output. You can define your plugins or use community-contributed plugins to enhance Tailwind CSS's capabilities.
+#### What is prop drilling?
+-  The process of passing down props from a higher-level component to a deeply nested child component through intermediary components that do not actually use the props themselves is known as prop drilling.
 
-#### Why do we have .postcssrc file?
-- The .postcssrc file allows developers to configure PostCSS according to their project's specific needs. It provides a centralized location to define PostCSS plugins, options, and other settings.
+#### What is lifting the state up?
+- Moving the state from a lower-level component to a higher-level component in the component tree. This is done to share the state between multiple components that need access to the same data or to centralize the state management for better control and consistency. 
+
+#### What is Context Provider and Context Consumer?
+- Context Provider: The Context Provider is a component that provides the context to its child components. It wraps the part of the component tree where you want to make the context available.
+- Context Consumer: The Context Consumer is a component that consumes the context provided by the Provider. It allows components to access the context value and use it within their render method.
+
+#### If you don’t pass a value to the provider does it take the default value?
+- Yes, if you don't pass a value to the provider, it will use the default value provided when creating the context using the createContext function.
 
 ## Coding:
-#### Configure Tailwind and try to build your whole app using tailwind. ✅
+
+#### Practice React Context with code examples ✅
+#### Try out Nested Contexts ✅
